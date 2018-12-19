@@ -1,0 +1,5 @@
+C:\Users\edwar\source\repos\DemoLoginWithBDD\DemoLogin\DemoLogin.Android\obj\Debug\MonoAndroid81\res.flag
+C:\Users\edwar\source\repos\DemoLoginWithBDD\DemoLogin\DemoLogin.Android\obj\Debug\MonoAndroid81\App.xaml.g.cs
+C:\Users\edwar\source\repos\DemoLoginWithBDD\DemoLogin\DemoLogin.Android\obj\Debug\MonoAndroid81\MainPage.xaml.g.cs
+C:\Users\edwar\source\repos\DemoLoginWithBDD\DemoLogin\DemoLogin.Android\obj\Debug\MonoAndroid81\Views\LoginPage.xaml.g.cs
+C:\Users\edwar\source\repos\DemoLoginWithBDD\DemoLogin\DemoLogin.Android\obj\Debug\MonoAndroid81\DemoLogin.Android.csproj.CoreCompileInputs.cache
