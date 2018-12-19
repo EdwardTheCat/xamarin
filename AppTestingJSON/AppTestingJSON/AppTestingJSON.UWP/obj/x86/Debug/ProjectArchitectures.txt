@@ -1,0 +1,1 @@
+C:\xamarinprojects\AppTestingJSON\AppTestingJSON\AppTestingJSON.UWP\AppTestingJSON.UWP.csproj;x86

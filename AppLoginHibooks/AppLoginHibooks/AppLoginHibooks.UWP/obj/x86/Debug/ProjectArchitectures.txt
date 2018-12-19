@@ -1,0 +1,1 @@
+C:\xamarinprojects\AppLoginHibooks\AppLoginHibooks\AppLoginHibooks.UWP\AppLoginHibooks.UWP.csproj;x86

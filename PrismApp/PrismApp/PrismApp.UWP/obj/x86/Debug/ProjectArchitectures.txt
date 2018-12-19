@@ -1,0 +1,1 @@
+C:\xamarinprojects\PrismApp\PrismApp\PrismApp.UWP\PrismApp.UWP.csproj;x86

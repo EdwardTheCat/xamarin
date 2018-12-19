@@ -1,0 +1,15 @@
+C:\xamarinprojects\PrismApp\PrismApp\PrismApp\obj\Debug\netstandard2.0\PrismApp.csprojAssemblyReference.cache
+C:\xamarinprojects\PrismApp\PrismApp\PrismApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\xamarinprojects\PrismApp\PrismApp\PrismApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\xamarinprojects\PrismApp\PrismApp\PrismApp\obj\Debug\netstandard2.0\PrismApp.csproj.CoreCompileInputs.cache
+C:\xamarinprojects\PrismApp\PrismApp\PrismApp\obj\Debug\netstandard2.0\PrismApp.AssemblyInfoInputs.cache
+C:\xamarinprojects\PrismApp\PrismApp\PrismApp\obj\Debug\netstandard2.0\PrismApp.AssemblyInfo.cs
+C:\xamarinprojects\PrismApp\PrismApp\PrismApp\obj\Debug\netstandard2.0\PrismApp.dll
+C:\xamarinprojects\PrismApp\PrismApp\PrismApp\obj\Debug\netstandard2.0\PrismApp.pdb
+C:\xamarinprojects\PrismApp\PrismApp\PrismApp\bin\Debug\netstandard2.0\PrismApp.deps.json
+C:\xamarinprojects\PrismApp\PrismApp\PrismApp\bin\Debug\netstandard2.0\PrismApp.dll
+C:\xamarinprojects\PrismApp\PrismApp\PrismApp\bin\Debug\netstandard2.0\PrismApp.pdb
+C:\xamarinprojects\PrismApp\PrismApp\PrismApp\obj\Debug\netstandard2.0\Views\ViewA.xaml.g.cs
+C:\xamarinprojects\PrismApp\PrismApp\PrismApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\xamarinprojects\PrismApp\PrismApp\PrismApp\obj\Debug\netstandard2.0\Views\ViewB.xaml.g.cs
+C:\xamarinprojects\PrismApp\PrismApp\PrismApp\obj\Debug\netstandard2.0\Views\MyMasterDetailPage.xaml.g.cs
